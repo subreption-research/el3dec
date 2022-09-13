@@ -1,0 +1,97 @@
+The following contributors are identified with SHA256 HMAC to protect their identities, respecting
+their wishes for remaining anonymous (in no particular order):
+
+    791a24b2a6c85fa0cc9883c9942ecacddbca7f7dabd3fda9d76b628a4cdc69e0
+        The original DSP/signals wizard hippie, main REDACTED dev and all-round decent human being.
+
+    4b51ef175edb5f718a571270e52360e6a10d5733cf53efd0eb1cd5c517b3b4b0
+        Shifty old man provided assorted Python code, Golay, etc.
+
+    828ba8f1ff78c9e97ccf5da7079f983e6f0da364fbe21a5d8a1a5dbdcd05e865
+        The quiet engineer. Thank you for all your efforts, kid.
+
+    d26672eb1c36b2dec0bb032f09108de7aefc9ed44523c8c2e99c6f9ba5cd8a54
+        The globe trotting engineer. Godspeed.
+
+    fdf529cfdfcc4a80f18935ef04cd8739be033dbac3d0c69935da4c6361371227
+        The original group of internet weirdos, and source of all kinds of gnarly things.
+
+    ENICS
+        As unfortunate as it is to see your cool drones used for war, we still thank you for
+        building an interesting reverse engineering target and promoting STEM activities for
+        children in Kazan.
+
+    FSB and co
+        Thank you for not inviting us to a Chai-onium-210 tea & biscuits party (yet).
+        The good sportsmanship lives on. Do feel free to go after our detractors. Just kidding...
+        Maybe?
+
+And most importantly, everyone risking life and limb out there for literal peanuts: You are the ones
+who deserve the accolades, not us. A +30% bodyfat prediabetic Metformin rage-fueled engineer
+sitting on a gaming chair somewhere should not steal your thunder. And neither shall we. History may
+not remember you, but we will (at least until dementia kicks in).
+
+ Если б это было так просто! — что где-то есть чёрные люди, злокозненно творящие чёрные дела,
+ и надо только отличить их от остальных и уничтожить. Но линия, разделяющая добро и зло, пересекает
+ сердце каждого человека. И кто уничтожит кусок своего сердца?… В течение жизни одного сердца
+ линия эта перемещается на нём, то теснимая радостным злом, то освобождая пространство
+ рассветающему добру. Один и тот же человек бывает в свои разные возрасты, в разных жизненных
+ положениях — совсем разным человеком. То к дьяволу близко. То и к святому. А имя — не меняется,
+ и ему мы приписываем всё. Завещал нам Сократ: познай самого себя! И перед ямой, в которую мы
+ уже собрались толкать наших обидчиков, мы останавливаемся, оторопев: да ведь это только
+ сложилось так, что палачами были не мы, а они.
+    -- Архипелаг ГУЛАГ (том 1), Александра Солженицына.
+
+The following not-so-anonymous contributors for their (sometimes unrelenting) help and decidedly
+justifying this release:
+
+    Dedrone
+        For motivating us to release this publicly so that no opportunistic commercial vendor
+        can peddle their overpriced HackRF/Ettus SDR + Linux SBC wares containing someone else's
+        altruistic work (or something that can be done for ~150 USD in COTS parts).
+
+        Apparently the profit of the sale of 3-4 of their sensors was too much to ask to give away
+        for the people who made this possible (including those who risk life and limb) after a
+        certain prototype had already circulated around. 130mil in funding but you chose nickel and
+        diming when you could have actually helped in Ukraine. Next time you poke fun at Russia
+        remember at least they put glue on their internal USB connectors. Bonus points for hiding
+        the unlawful and unethical access to a prototype that was never theirs to use.
+
+        <REDACTED1> betcha 90% of the 130mil are going into the marketing dept and C-levels pockets
+        <REDACTED2> countdown to owned by ru/cn/nk...
+        <REDACTED1> did the CEO really try to pull the "i dont earn as much" card? can he do
+                    anything other than asking for checks and signing them? serious Q
+        <REDACTED2> he can probs get you a rug for real cheap at a bazaar wit dem haggling skillz
+
+    Alex S., "Free Air" and co
+        For more or less the same. Hopefully your NSC and "NGO" friends and their bribes can still
+        pay your apartment so your girlfriend does not have to.
+
+    Armorum's Kir V. (self-proclaimed "cyber security expert", wannabe SIGINT "operator")
+        We are not publishing your full name because we would inadvertently become the reason people
+        actually find out you exist, and that's undeserved. We were ignoring your saltiness until
+        we found out you have a pet tortoise with a nazi Luftwaffe cross painted on its shell (you
+        share the amateur artistic streak with a certain Austrian painter after all) and the rest
+        of your (neo)nazi fetishes. Some gents who like potato latkes will remember you.
+
+        A+ for being part of the problem that makes Russia's "denazification" claims a
+        half-truth. D- for your Twitter super secret SIGINT commentary and FSB mockery
+        (but can't keep your own Gitlab locked down). B+ for the skimask pics with tomahawks. Edgy.
+
+    The rest of opportunistic hacks, media queens, larp-ers, FSB bait, hustlers/wannabe brokers, etc
+        BAWK BAWK
+
+ Thank "y'all",
+    the "volunteers"
+    (intentionally making this infantile, some people don't deserve to be roasted in seriousness)
+    *clix*
+
+--
+
+Distributed as-is:
+
+Information in this file does not necessarily reflect corporate policy or the sentiment of
+Subreption or its customers, partners and employees. The contents of this file are distributed as-is
+and without censorship of any kind, per corporate policy of right to free speech, barring few
+exceptions, and exclusively belong to the author(s), without explicit or implicit sanctioning
+or approval. Trademarks belong to their respective owners.
